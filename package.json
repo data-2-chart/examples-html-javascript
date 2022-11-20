@@ -1,0 +1,23 @@
+{
+  "name": "examples-html-javascript",
+  "version": "1.0.0",
+  "description": "data2chart html/javascript examples",
+  "main": "index.js",
+  "scripts": {
+    "start": "web-dev-server --watch --port 4200",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/data-2-chart/examples-html-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/data-2-chart/examples-html-javascript/issues"
+  },
+  "homepage": "https://github.com/data-2-chart/examples-html-javascript#readme",
+  "devDependencies": {
+    "@web/dev-server": "^0.1.35"
+  }
+}
